@@ -29,3 +29,6 @@ model.fit(Xtrain, ytrain)
 r2_accuracy = model.score(Xtest, ytest)
 print(f"R² Score: {r2_accuracy}")
 ```
+```text
+R² Score: 0.6579160072669454
+```
