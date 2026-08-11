@@ -38,3 +38,6 @@ R² Score: 0.6579160072669454
 Cleaned AirBnb listings, State info, and Titatnic datasets in preparation for running Machine Learning Models. 
 ### Revenue Predictor
 Created a revenue predictor albeit not very accurate. *I want to improve this in the future
+
+## Works Cited
+https://github.com/jakevdp/PythonDataScienceHandbook
