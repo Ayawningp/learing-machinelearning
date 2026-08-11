@@ -1,6 +1,6 @@
-# Learning Machine Learning Models and Algorithms
+# Learning Machine Learning Models and Algorithms (Python)
 ## About
-While my knowledge of Machine Learning is incomplete and has a long journey ahead of itself, this github repo intends to chart my journey as I learn various models and algorithms in order to deepen my understanding of this subject. 
+While my knowledge of Machine Learning is incomplete and has a long journey ahead of itself, this github repo intends to chart my journey as I learn various models and algorithms in order to deepen my understanding of machine learning using python. 
 
 Therefore, the purpose of this project is not to present optimized or efficient code but rather to chart my learning process.
 
@@ -41,4 +41,5 @@ Created a revenue predictor albeit not very accurate. *I want to improve this in
 
 ## Works Cited
 https://github.com/jakevdp/PythonDataScienceHandbook
+
 https://insideairbnb.com/get-the-data/
