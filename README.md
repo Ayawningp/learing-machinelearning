@@ -32,3 +32,9 @@ print(f"R² Score: {r2_accuracy}")
 ```text
 R² Score: 0.6579160072669454
 ```
+
+## Miscellaneous
+### Data Cleaning
+Cleaned AirBnb listings, State info, and Titatnic datasets in preparation for running Machine Learning Models. 
+### Revenue Predictor
+Created a revenue predictor albeit not very accurate. *I want to improve this in the future
