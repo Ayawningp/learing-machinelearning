@@ -45,3 +45,5 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 https://insideairbnb.com/get-the-data/
 
 https://www.geeksforgeeks.org/
+
+https://math.stackexchange.com/
