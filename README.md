@@ -43,3 +43,5 @@ Created a revenue predictor albeit not very accurate. *I want to improve this in
 https://github.com/jakevdp/PythonDataScienceHandbook
 
 https://insideairbnb.com/get-the-data/
+
+https://www.geeksforgeeks.org/
