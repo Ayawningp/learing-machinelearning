@@ -8,7 +8,7 @@ Therefore, the purpose of this project is not to present optimized or efficient 
 Given AirBnB data from New York City, I created a price predictor that considers features such as amenities, location, and availability to predict housing prices. With this model, 65% of the change in prices can be associated to this models chosen features.
 
 ## Predicting Smartphone Addiction
-Given synthetic data provided by kaggle, I created a model that predicts the probability that an individual will develop a smartphone addiction. With this model I achieved a precision of 0.85 and macro of 0.83.
+Given synthetic data provided by kaggle, I created a model that predicts the probability that an individual will develop a smartphone addiction. With this model I achieved a precision of 0.85 and recall of 0.83.
 
 ## Miscellaneous
 ### Data Cleaning
