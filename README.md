@@ -26,3 +26,5 @@ https://www.geeksforgeeks.org/
 https://math.stackexchange.com/
 
 https://www.kaggle.com/competitions/playground-series-s6e8/overview
+
+https://www.kaggle.com/code/lucymlai32/smartphone-addiction-prediction
