@@ -4,6 +4,9 @@ While my knowledge of Machine Learning has a long journey ahead, this github rep
 
 Therefore, the purpose of this project is not to present optimized or efficient code but rather to chart my learning process.
 
+## Predicting EV Car Purchases
+Given synthetic data provided by kaggle, I created a XGBoost model that predicts the probability that an individual will buy a EV. With this model I achieved a Roc Auc of 0.94168.
+
 ## AirBnb Price Predictor
 Given AirBnB data from New York City, I created a price predictor that considers features such as amenities, location, and availability to predict housing prices. With this model, 65% of the change in prices can be associated to this models chosen features.
 
@@ -28,3 +31,7 @@ https://math.stackexchange.com/
 https://www.kaggle.com/competitions/playground-series-s6e8/overview
 
 https://www.kaggle.com/code/lucymlai32/smartphone-addiction-prediction
+
+https://www.kaggle.com/competitions/playground-series-s6e9/overview
+
+https://www.kaggle.com/code/aryankaisth/signal-that-matters-complete-eda
